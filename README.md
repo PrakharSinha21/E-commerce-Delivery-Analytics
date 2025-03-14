@@ -57,22 +57,22 @@ The repository contains SQL scripts that answer questions such as:
 
 Based on the insights derived from the SQL analyses, here are some advanced recommendations to optimize your e-commerce delivery operations and enhance customer satisfaction:
 
-Improve Delivery Performance:
+**Improve Delivery Performance:**
 
 Although the average delivery time is around 29.5 minutes, slight variations across product categories (e.g., slower performance in Grocery or Personal Care) indicate that specific categories might be facing logistical challenges. Consider investigating and optimizing routes, warehouse management, or courier performance in these segments.
 
-Reduce Refunds and Enhance Service Quality:
+**Reduce Refunds and Enhance Service Quality:**
 
 With a refund rate of over 45%, it's critical to analyze the root causes (e.g., delayed deliveries, product quality issues).
 
-Focus on High-Value Customer Segments:
+**Focus on High-Value Customer Segments:**
 
 The top 10 customers contribute a significant percentage of revenue. Tailor loyalty programs, personalized offers, and exclusive services to retain and further engage these high-value customers.
 Further segment your customer base by order frequency, order value, and feedback to identify potential upsell or cross-sell opportunities.
-Leverage Cross-Platform Best Practices:
+**Leverage Cross-Platform Best Practices:**
 
 With platforms like JioMart showing slightly faster delivery times compared to others, benchmark best practices from these platforms and consider standardizing processes across all platforms.
-Data-Driven Process Improvements:
+**Data-Driven Process Improvements:**
 
 Although the direct correlation between order value and delivery time might not be strong, use predictive analytics to uncover hidden patterns. This can help in designing strategies that optimize delivery logistics based on order characteristics.
 
