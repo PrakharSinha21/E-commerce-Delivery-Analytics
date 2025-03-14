@@ -53,7 +53,8 @@ The repository contains SQL scripts that answer questions such as:
   - What are the top-selling product categories by revenue?  
   - How much revenue is lost due to refunds?
 
-##Predictive Analytics
+## Predictive Analytics
+
 Based on the insights derived from the SQL analyses, here are some advanced recommendations to optimize your e-commerce delivery operations and enhance customer satisfaction:
 
 Improve Delivery Performance:
