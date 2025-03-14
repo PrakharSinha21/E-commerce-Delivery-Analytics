@@ -7,11 +7,7 @@ This repository hosts a comprehensive suite of SQL queries and predictive analyt
 - [Dataset Description](#dataset-description)
 - [SQL Queries and Data Analysis](#sql-queries-and-data-analysis)
 - [Predictive Analytics](#predictive-analytics)
-- [Usage Instructions](#usage-instructions)
-- [Advanced Analysis](#advanced-analysis)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- 
 
 ## Overview
 In today’s dynamic e-commerce environment, understanding historical performance is crucial—but so is predicting future trends. This project leverages SQL to perform deep-dive analyses on delivery and order data while also implementing predictive models to forecast:
@@ -41,9 +37,8 @@ The repository contains SQL scripts that answer questions such as:
   - What is the revenue contribution of the top 10 customers?
 
 - **Order Analysis:**  
-  - What is the total number of orders placed?  
-  - Which are the peak order hours?  
-  - How do refund rates vary by product category?
+  - What is the total number of orders placed?    
+  - How do delivery time vary by product category?
 
 - **Delivery Performance:**  
   - What is the average delivery time?  
