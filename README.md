@@ -78,4 +78,4 @@ With platforms like JioMart showing slightly faster delivery times compared to o
 
 Although the direct correlation between order value and delivery time might not be strong, use predictive analytics to uncover hidden patterns. This can help in designing strategies that optimize delivery logistics based on order characteristics.
 
-By integrating these recommendations into your operations, you can work toward reducing delays, lowering refund rates, and ultimately driving higher customer satisfaction and increased revenue.
+**By integrating these recommendations into your operations, you can work toward reducing delays, lowering refund rates, and ultimately driving higher customer satisfaction and increased revenue.**
