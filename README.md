@@ -7,7 +7,6 @@ This repository hosts a comprehensive suite of SQL queries and predictive analyt
 - [Dataset Description](#dataset-description)
 - [SQL Queries and Data Analysis](#sql-queries-and-data-analysis)
 - [Predictive Analytics](#predictive-analytics)
-- 
 
 ## Overview
 In today’s dynamic e-commerce environment, understanding historical performance is crucial—but so is predicting future trends. This project leverages SQL to perform deep-dive analyses on delivery and order data while also implementing predictive models to forecast:
