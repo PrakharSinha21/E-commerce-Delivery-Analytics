@@ -69,9 +69,11 @@ With a refund rate of over 45%, it's critical to analyze the root causes (e.g., 
 
 The top 10 customers contribute a significant percentage of revenue. Tailor loyalty programs, personalized offers, and exclusive services to retain and further engage these high-value customers.
 Further segment your customer base by order frequency, order value, and feedback to identify potential upsell or cross-sell opportunities.
+
 **Leverage Cross-Platform Best Practices:**
 
 With platforms like JioMart showing slightly faster delivery times compared to others, benchmark best practices from these platforms and consider standardizing processes across all platforms.
+
 **Data-Driven Process Improvements:**
 
 Although the direct correlation between order value and delivery time might not be strong, use predictive analytics to uncover hidden patterns. This can help in designing strategies that optimize delivery logistics based on order characteristics.
